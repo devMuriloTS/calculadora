@@ -1,0 +1,33 @@
+* {
+    background-color: #cae0c8;
+}
+
+.container {
+    text-align: center;
+    color: #750e49;
+    width: 80%;
+    max-width: 1200px;
+    margin: 20px auto;
+    border: 2px solid #02fcf3;
+    padding: 20px;
+    background-color: #deddc4;
+    max-width: 300px;
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+}
+
+.botao{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 5px;
+}
+
+#telinha{
+    padding: 1em;
+    margin-bottom: 1em;
+    background-color: #e8e7d2;
+}
+
+button{
+    background-color: aqua;
+}
